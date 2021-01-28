@@ -4,28 +4,31 @@ ISA Expansion Board for Amstrad PPC 512/640
 
 
 Required:
+
 10uF Tant   C1 C2 C3 C4 C5 C6 C11 C7 C8 C9 C10 C12 C13
 
-10K 9 Resistor Array SIP 
+10K 9 Resistor Array SIP x 1 (RR1)
 
 8-bit ISA-PC bus connector   x 3 
 
 74HCT244  U1 U2
 
+3mm LED  D1 
+
 2 (2x20) 40pin IDC 
 
- 37Pin IDC Plug
+37Pin IDC Plug
  
- 25pin IDC Plug
+25pin IDC Plug
  
- 40W Flat Ribbon Cable (IDE Cable)
+40W Flat Ribbon Cable (IDE Cable)
  
 
-Optional:
+Optional: Beat Detect (A7)
 
 470R  1/4W  R3 R4 R5
 
-3mm LED  D1 D2 D3
+3mm LED   D3
 
 2x20 double row x 2
 
