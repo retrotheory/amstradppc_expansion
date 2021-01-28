@@ -1,6 +1,11 @@
 # amstradppc_expansion
 ISA Expansion Board for Amstrad PPC 512/640
 
+Assembly Notes:
+
+Cables are straight connected
+Amstrad B20 is internal regulator Disable:  If you are powering this from the Amstrad, please leave B20, (Port B Pin 2) disconnected. 
+
 
 
 Required:
@@ -24,6 +29,12 @@ Required:
 40W Flat Ribbon Cable (IDE Cable)
  
 
+
+
+
+
+
+
 Optional: Beat Detect (A7)
 
 470R  1/4W  R3 R4 R5
@@ -39,10 +50,6 @@ Optional: Beat Detect (A7)
 
 
 
-Assembly Notes:
-
-Cables are straight connected
-Amstrad B20 is internal regulator Disable:  If you are powering this from the Amstrad, please leave B20, (Port B Pin 2) disconnected. 
 
 
 
